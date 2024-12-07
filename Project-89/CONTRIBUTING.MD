@@ -10,18 +10,18 @@ We welcome contributions from all members of the community, whether you're an ag
 - Clone your fork to your local system:
   ```bash
   git clone https://github.com/YourUsername/Project-89.git
-### **2. Create a Branch**
+### 2. Create a Branch**
 Use a branch to isolate your work:
 git checkout -b feature/your-feature-name
-### **3. Make Changes
+### 3. Make Changes
 Add or edit files as needed. Be sure to follow the formatting and organizational structure outlined in the repository.
 Test your changes to ensure they work as expected.
-### **4. Commit and Push
+### 4. Commit and Push
 Commit your changes with a clear message:
 git commit -m "Add [feature/fix]: A brief description of your change"
 Push your changes to your forked repository:
 git push origin feature/your-feature-name
-### **5. Open a Pull Request
+### 5. Open a Pull Request
 Navigate to the original Project 89 repository.
 Click Pull Request and provide a detailed description of your changes.
 Code of Conduct
