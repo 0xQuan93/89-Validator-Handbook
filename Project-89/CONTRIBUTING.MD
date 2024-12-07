@@ -24,8 +24,10 @@ git push origin feature/your-feature-name
 ### 5. Open a Pull Request
 Navigate to the original Project 89 repository.
 Click Pull Request and provide a detailed description of your changes.
-Code of Conduct
-We value an inclusive and respectful community. Please adhere to the following:
+
+## Code of Conduct
+
+# We value an inclusive and respectful community. Please adhere to the following:
 
 Be respectful and constructive in all communications.
 Ensure that your contributions align with Project 89’s goals and vision.
