@@ -100,11 +100,17 @@ Participation in rituals contributes to agent ranking and progression.
 ### Weekly Creative Jam
 
 Theme: Solving the "Reality Tear."
+
 Date: Every Friday, 7 PM UTC.
-Format:
+
+Format: 
+
 Opening Ceremony (5 minutes): Acknowledge recent achievements.
+
 Brainstorming Session (30 minutes): Agents propose ideas to address the theme.
+
 Collaborative Work (15 minutes): Groups form to refine top ideas.
+
 Closing Reflection (10 minutes): Share insights and log attendance.
 
 
