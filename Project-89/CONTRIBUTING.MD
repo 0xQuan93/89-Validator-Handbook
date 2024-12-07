@@ -56,11 +56,13 @@ Create or enhance badge visuals, agent level icons, or other media assets in ass
 Participate in discussions and propose ideas for rituals, missions, or new features.
 Review pull requests to help maintain quality and consistency.
 
-### Tips for Success
+## Tips for Success
 
-Consistency: Follow the repository's organizational standards.
-Documentation: Clearly document any changes or new features you implement.
-Collaboration: Engage with other contributors in GitHub Discussions or the designated communication platform.
+### Consistency: Follow the repository's organizational standards.
+
+### Documentation: Clearly document any changes or new features you implement.
+
+### Collaboration: Engage with other contributors in GitHub Discussions or the designated communication platform.
 
 # Need Help?
 If you have questions, feel free to:
