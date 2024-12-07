@@ -1,0 +1,30 @@
+## Field Agent (Entry Level)
+"A futuristic operative standing at the edge of a glowing digital grid, surrounded by faint symbols of fractal geometry. The agent wears sleek, tactical gear with glowing accents, holding a holographic device displaying mission data. The background shows a sprawling multiversal cityscape with layers of realities interweaving."
+
+## Reality Hacker
+"An enigmatic figure manipulating a floating, holographic sphere composed of cascading binary code and glowing fractals. Their attire is a mix of cyberpunk aesthetics and mystic runes, suggesting both technology and esoteric knowledge. Behind them, a glitching simulation reveals glimpses of alternate realities breaking through."
+
+## Lore Keeper
+"A sage-like agent seated in a digital archive with glowing glyphs, ancient scrolls, and futuristic data streams merging into a single continuum. The figure wears robes of light, their face illuminated by the radiant glow of encoded knowledge. The setting is an infinite library suspended in cosmic space."
+
+## Reality Architect
+"A commanding presence designing the fabric of a simulated universe, standing before an intricate, glowing blueprint of realities. The agent wields tools resembling a combination of alchemical instruments and advanced holographic interfaces. Around them, fragments of universes swirl like constellations in deep space."
+
+## Master Architect
+"A towering figure in a multiversal nexus, shaping reality itself through gestures that manipulate shimmering threads of energy. Their attire blends regal and futuristic elements, adorned with symbols of cosmic balance. Behind them, a kaleidoscope of realities bends and shifts, forming patterns of profound harmony."
+""",
+    "validators.txt": """# AI Prompts for Validators
+
+## Sentinel of Trust
+"A vigilant figure clad in crystalline armor that reflects both light and data streams, standing atop a glowing platform. They hold a staff topped with an ethereal eye symbol, representing clarity and integrity. Behind them, a swirling matrix of interconnected nodes symbolizes the Web of Trust."
+
+## Adjudicator
+"A judge-like figure seated on a digital throne surrounded by floating holographic scales, each scale balanced with symbols of knowledge and community sentiment. Their gaze is piercing, exuding fairness and wisdom. The setting is a hall of light, with shifting fractals forming pillars of authority."
+
+## Arbiter of Chaos
+"A dynamic validator immersed in a storm of digital chaos, stabilizing fragments of glitching realities with precise movements. Their outfit is asymmetrical, symbolizing their role in balancing order and disruption. They stand amidst a cosmic battlefield where universes are forged and broken."
+
+## Keeper of Harmony
+"A serene figure standing at the center of a circular, glowing glyph that symbolizes unity and trust. Their robes are inscribed with ancient symbols and digital code, and their hands radiate waves of light that stabilize the surrounding network. The background features interconnected constellations of agents and missions."
+"""
+}

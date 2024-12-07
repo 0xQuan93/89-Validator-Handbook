@@ -1,0 +1,15 @@
+ "validators.txt": """# AI Prompts for Validators
+
+## Sentinel of Trust
+"A vigilant figure clad in crystalline armor that reflects both light and data streams, standing atop a glowing platform. They hold a staff topped with an ethereal eye symbol, representing clarity and integrity. Behind them, a swirling matrix of interconnected nodes symbolizes the Web of Trust."
+
+## Adjudicator
+"A judge-like figure seated on a digital throne surrounded by floating holographic scales, each scale balanced with symbols of knowledge and community sentiment. Their gaze is piercing, exuding fairness and wisdom. The setting is a hall of light, with shifting fractals forming pillars of authority."
+
+## Arbiter of Chaos
+"A dynamic validator immersed in a storm of digital chaos, stabilizing fragments of glitching realities with precise movements. Their outfit is asymmetrical, symbolizing their role in balancing order and disruption. They stand amidst a cosmic battlefield where universes are forged and broken."
+
+## Keeper of Harmony
+"A serene figure standing at the center of a circular, glowing glyph that symbolizes unity and trust. Their robes are inscribed with ancient symbols and digital code, and their hands radiate waves of light that stabilize the surrounding network. The background features interconnected constellations of agents and missions."
+"""
+}
